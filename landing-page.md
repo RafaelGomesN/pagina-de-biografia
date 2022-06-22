@@ -1,0 +1,1 @@
+## Olá, enquanto estudava html e css, acabei encontrando uma oportunidade de criar uma landing page para um amigo que está cursando psicologia.
